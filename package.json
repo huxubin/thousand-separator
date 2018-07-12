@@ -4,7 +4,7 @@
   "description": "转化成千分位格式",
   "main": "thousandth.js",
   "scripts": {
-    "test": "test command"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
