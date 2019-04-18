@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <thousand-separator></thousand-separator>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ThousandSeparator from './components/ThousandSeparator.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    ThousandSeparator
   }
 }
 </script>
